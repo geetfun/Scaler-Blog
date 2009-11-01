@@ -4,4 +4,4 @@ Description: A simple personal blogging system
 
 License: MIT License
 
-Blurb: I've tried Typo, Radiant, Mephisto, Enki, and just decided to write my own blogging platform in Rails. Those are great blogging software, but I wanted something simple to fit my needs.
+Blurb: I've tried Typo, Radiant, Mephisto, Enki, and just decided to write my own blogging platform in Rails. Those are great blogging software, but I wanted something simple to fit my needs and that ran on Heroku without too much modifications.
