@@ -1,0 +1,283 @@
+  [4;36;1mPost Create (0.4ms)[0m   [0;1mINSERT INTO "posts" ("created_at", "title", "updated_at", "text", "user_id", "status") VALUES('2009-11-01 13:50:29', NULL, '2009-11-01 13:50:29', NULL, NULL, 'published')[0m
+  [4;36;1mPost Create (0.4ms)[0m   [0;1mINSERT INTO "posts" ("created_at", "title", "updated_at", "text", "user_id", "status") VALUES('2009-11-01 13:50:51', NULL, '2009-11-01 13:50:51', NULL, NULL, 'published')[0m
+  [4;35;1mPost Create (0.3ms)[0m   [0mINSERT INTO "posts" ("created_at", "title", "updated_at", "text", "user_id", "status") VALUES('2009-11-01 13:50:51', NULL, '2009-11-01 13:50:51', NULL, NULL, 'published_privately')[0m
+  [4;36;1mPost Create (0.4ms)[0m   [0;1mINSERT INTO "posts" ("created_at", "title", "updated_at", "text", "user_id", "status") VALUES('2009-11-01 13:52:37', NULL, '2009-11-01 13:52:37', NULL, NULL, 'published')[0m
+  [4;35;1mPost Create (0.2ms)[0m   [0mINSERT INTO "posts" ("created_at", "title", "updated_at", "text", "user_id", "status") VALUES('2009-11-01 13:52:37', NULL, '2009-11-01 13:52:37', NULL, NULL, 'published_privately')[0m
+  [4;36;1mPost Create (0.2ms)[0m   [0;1mINSERT INTO "posts" ("created_at", "title", "updated_at", "text", "user_id", "status") VALUES('2009-11-01 13:52:37', NULL, '2009-11-01 13:52:37', NULL, NULL, 'published')[0m
+  [4;35;1mPost Update (0.1ms)[0m   [0mUPDATE "posts" SET "updated_at" = '2009-11-01 13:52:37', "status" = 'published_privately' WHERE "id" = 1[0m
+  [4;36;1mPost Create (0.2ms)[0m   [0;1mINSERT INTO "posts" ("created_at", "title", "updated_at", "text", "user_id", "status") VALUES('2009-11-01 13:52:37', NULL, '2009-11-01 13:52:37', NULL, NULL, 'published')[0m
+  [4;36;1mPost Create (0.6ms)[0m   [0;1mINSERT INTO "posts" ("created_at", "title", "updated_at", "text", "user_id", "status") VALUES('2009-11-01 13:52:57', NULL, '2009-11-01 13:52:57', NULL, NULL, 'published')[0m
+  [4;35;1mPost Create (0.2ms)[0m   [0mINSERT INTO "posts" ("created_at", "title", "updated_at", "text", "user_id", "status") VALUES('2009-11-01 13:52:57', NULL, '2009-11-01 13:52:57', NULL, NULL, 'published_privately')[0m
+  [4;36;1mPost Create (0.2ms)[0m   [0;1mINSERT INTO "posts" ("created_at", "title", "updated_at", "text", "user_id", "status") VALUES('2009-11-01 13:52:57', NULL, '2009-11-01 13:52:57', NULL, NULL, 'published')[0m
+  [4;35;1mPost Update (0.1ms)[0m   [0mUPDATE "posts" SET "updated_at" = '2009-11-01 13:52:57', "status" = 'published_privately' WHERE "id" = 1[0m
+  [4;36;1mPost Create (0.2ms)[0m   [0;1mINSERT INTO "posts" ("created_at", "title", "updated_at", "text", "user_id", "status") VALUES('2009-11-01 13:52:57', NULL, '2009-11-01 13:52:57', NULL, NULL, 'published')[0m
+  [4;35;1mPost Update (0.1ms)[0m   [0mUPDATE "posts" SET "updated_at" = '2009-11-01 13:52:57', "status" = 'unpublished' WHERE "id" = 1[0m
+  [4;36;1mPost Create (0.4ms)[0m   [0;1mINSERT INTO "posts" ("created_at", "title", "updated_at", "text", "user_id", "status") VALUES('2009-11-01 13:53:13', NULL, '2009-11-01 13:53:13', NULL, NULL, 'published')[0m
+  [4;35;1mPost Create (0.2ms)[0m   [0mINSERT INTO "posts" ("created_at", "title", "updated_at", "text", "user_id", "status") VALUES('2009-11-01 13:53:13', NULL, '2009-11-01 13:53:13', NULL, NULL, 'published_privately')[0m
+  [4;36;1mPost Create (0.2ms)[0m   [0;1mINSERT INTO "posts" ("created_at", "title", "updated_at", "text", "user_id", "status") VALUES('2009-11-01 13:53:13', NULL, '2009-11-01 13:53:13', NULL, NULL, 'published')[0m
+  [4;35;1mPost Create (0.2ms)[0m   [0mINSERT INTO "posts" ("created_at", "title", "updated_at", "text", "user_id", "status") VALUES('2009-11-01 13:53:13', NULL, '2009-11-01 13:53:13', NULL, NULL, 'published')[0m
+  [4;36;1mPost Update (0.1ms)[0m   [0;1mUPDATE "posts" SET "updated_at" = '2009-11-01 13:53:13', "status" = 'published_privately' WHERE "id" = 1[0m
+  [4;35;1mPost Create (0.2ms)[0m   [0mINSERT INTO "posts" ("created_at", "title", "updated_at", "text", "user_id", "status") VALUES('2009-11-01 13:53:13', NULL, '2009-11-01 13:53:13', NULL, NULL, 'published')[0m
+  [4;36;1mPost Update (0.1ms)[0m   [0;1mUPDATE "posts" SET "updated_at" = '2009-11-01 13:53:13', "status" = 'unpublished' WHERE "id" = 1[0m
+  [4;36;1mPost Create (0.4ms)[0m   [0;1mINSERT INTO "posts" ("created_at", "title", "updated_at", "text", "user_id", "status") VALUES('2009-11-01 13:53:42', NULL, '2009-11-01 13:53:42', NULL, NULL, 'published')[0m
+  [4;35;1mPost Create (0.2ms)[0m   [0mINSERT INTO "posts" ("created_at", "title", "updated_at", "text", "user_id", "status") VALUES('2009-11-01 13:53:42', NULL, '2009-11-01 13:53:42', NULL, NULL, 'published_privately')[0m
+  [4;36;1mPost Create (0.2ms)[0m   [0;1mINSERT INTO "posts" ("created_at", "title", "updated_at", "text", "user_id", "status") VALUES('2009-11-01 13:53:42', NULL, '2009-11-01 13:53:42', NULL, NULL, 'published')[0m
+  [4;35;1mPost Create (0.3ms)[0m   [0mINSERT INTO "posts" ("created_at", "title", "updated_at", "text", "user_id", "status") VALUES('2009-11-01 13:53:42', NULL, '2009-11-01 13:53:42', NULL, NULL, 'published')[0m
+  [4;36;1mPost Update (0.1ms)[0m   [0;1mUPDATE "posts" SET "updated_at" = '2009-11-01 13:53:42', "status" = 'published_privately' WHERE "id" = 1[0m
+  [4;35;1mPost Create (0.2ms)[0m   [0mINSERT INTO "posts" ("created_at", "title", "updated_at", "text", "user_id", "status") VALUES('2009-11-01 13:53:42', NULL, '2009-11-01 13:53:42', NULL, NULL, 'published')[0m
+  [4;36;1mPost Update (0.1ms)[0m   [0;1mUPDATE "posts" SET "updated_at" = '2009-11-01 13:53:42', "status" = 'unpublished' WHERE "id" = 1[0m
+  [4;35;1mPost Create (0.2ms)[0m   [0mINSERT INTO "posts" ("created_at", "title", "updated_at", "text", "user_id", "status") VALUES('2009-11-01 13:53:42', NULL, '2009-11-01 13:53:42', NULL, NULL, 'published_privately')[0m
+  [4;36;1mPost Create (0.2ms)[0m   [0;1mINSERT INTO "posts" ("created_at", "title", "updated_at", "text", "user_id", "status") VALUES('2009-11-01 13:53:42', NULL, '2009-11-01 13:53:42', NULL, NULL, 'published_privately')[0m
+  [4;36;1mPost Create (0.4ms)[0m   [0;1mINSERT INTO "posts" ("created_at", "title", "updated_at", "text", "user_id", "status") VALUES('2009-11-01 13:54:03', NULL, '2009-11-01 13:54:03', NULL, NULL, 'published')[0m
+  [4;35;1mPost Create (0.2ms)[0m   [0mINSERT INTO "posts" ("created_at", "title", "updated_at", "text", "user_id", "status") VALUES('2009-11-01 13:54:03', NULL, '2009-11-01 13:54:03', NULL, NULL, 'published_privately')[0m
+  [4;36;1mPost Create (0.2ms)[0m   [0;1mINSERT INTO "posts" ("created_at", "title", "updated_at", "text", "user_id", "status") VALUES('2009-11-01 13:54:03', NULL, '2009-11-01 13:54:03', NULL, NULL, 'published')[0m
+  [4;35;1mPost Create (0.2ms)[0m   [0mINSERT INTO "posts" ("created_at", "title", "updated_at", "text", "user_id", "status") VALUES('2009-11-01 13:54:03', NULL, '2009-11-01 13:54:03', NULL, NULL, 'published')[0m
+  [4;36;1mPost Update (0.1ms)[0m   [0;1mUPDATE "posts" SET "updated_at" = '2009-11-01 13:54:03', "status" = 'published_privately' WHERE "id" = 1[0m
+  [4;35;1mPost Create (0.2ms)[0m   [0mINSERT INTO "posts" ("created_at", "title", "updated_at", "text", "user_id", "status") VALUES('2009-11-01 13:54:03', NULL, '2009-11-01 13:54:03', NULL, NULL, 'published')[0m
+  [4;36;1mPost Update (0.1ms)[0m   [0;1mUPDATE "posts" SET "updated_at" = '2009-11-01 13:54:03', "status" = 'unpublished' WHERE "id" = 1[0m
+  [4;35;1mPost Create (0.2ms)[0m   [0mINSERT INTO "posts" ("created_at", "title", "updated_at", "text", "user_id", "status") VALUES('2009-11-01 13:54:03', NULL, '2009-11-01 13:54:03', NULL, NULL, 'published_privately')[0m
+  [4;36;1mPost Create (0.2ms)[0m   [0;1mINSERT INTO "posts" ("created_at", "title", "updated_at", "text", "user_id", "status") VALUES('2009-11-01 13:54:03', NULL, '2009-11-01 13:54:03', NULL, NULL, 'published_privately')[0m
+  [4;35;1mPost Create (0.2ms)[0m   [0mINSERT INTO "posts" ("created_at", "title", "updated_at", "text", "user_id", "status") VALUES('2009-11-01 13:54:03', NULL, '2009-11-01 13:54:03', NULL, NULL, 'published_privately')[0m
+  [4;36;1mPost Create (0.5ms)[0m   [0;1mINSERT INTO "posts" ("created_at", "title", "updated_at", "text", "user_id", "status") VALUES('2009-11-01 13:54:19', NULL, '2009-11-01 13:54:19', NULL, NULL, 'published')[0m
+  [4;35;1mPost Create (0.2ms)[0m   [0mINSERT INTO "posts" ("created_at", "title", "updated_at", "text", "user_id", "status") VALUES('2009-11-01 13:54:19', NULL, '2009-11-01 13:54:19', NULL, NULL, 'published_privately')[0m
+  [4;36;1mPost Create (0.2ms)[0m   [0;1mINSERT INTO "posts" ("created_at", "title", "updated_at", "text", "user_id", "status") VALUES('2009-11-01 13:54:19', NULL, '2009-11-01 13:54:19', NULL, NULL, 'published')[0m
+  [4;35;1mPost Create (0.2ms)[0m   [0mINSERT INTO "posts" ("created_at", "title", "updated_at", "text", "user_id", "status") VALUES('2009-11-01 13:54:19', NULL, '2009-11-01 13:54:19', NULL, NULL, 'published')[0m
+  [4;36;1mPost Update (0.1ms)[0m   [0;1mUPDATE "posts" SET "updated_at" = '2009-11-01 13:54:19', "status" = 'published_privately' WHERE "id" = 1[0m
+  [4;35;1mPost Create (0.2ms)[0m   [0mINSERT INTO "posts" ("created_at", "title", "updated_at", "text", "user_id", "status") VALUES('2009-11-01 13:54:19', NULL, '2009-11-01 13:54:19', NULL, NULL, 'published')[0m
+  [4;36;1mPost Update (0.1ms)[0m   [0;1mUPDATE "posts" SET "updated_at" = '2009-11-01 13:54:19', "status" = 'unpublished' WHERE "id" = 1[0m
+  [4;35;1mPost Create (0.2ms)[0m   [0mINSERT INTO "posts" ("created_at", "title", "updated_at", "text", "user_id", "status") VALUES('2009-11-01 13:54:19', NULL, '2009-11-01 13:54:19', NULL, NULL, 'published_privately')[0m
+  [4;36;1mPost Create (0.2ms)[0m   [0;1mINSERT INTO "posts" ("created_at", "title", "updated_at", "text", "user_id", "status") VALUES('2009-11-01 13:54:19', NULL, '2009-11-01 13:54:19', NULL, NULL, 'published_privately')[0m
+  [4;35;1mPost Create (0.3ms)[0m   [0mINSERT INTO "posts" ("created_at", "title", "updated_at", "text", "user_id", "status") VALUES('2009-11-01 13:54:19', NULL, '2009-11-01 13:54:19', NULL, NULL, 'published_privately')[0m
+  [4;36;1mPost Create (0.4ms)[0m   [0;1mINSERT INTO "posts" ("created_at", "title", "updated_at", "text", "user_id", "status") VALUES('2009-11-01 13:54:25', NULL, '2009-11-01 13:54:25', NULL, NULL, 'published_privately')[0m
+  [4;35;1mPost Update (0.1ms)[0m   [0mUPDATE "posts" SET "updated_at" = '2009-11-01 13:54:25', "status" = 'published' WHERE "id" = 1[0m
+  [4;36;1mPost Create (0.4ms)[0m   [0;1mINSERT INTO "posts" ("created_at", "title", "updated_at", "text", "user_id", "status") VALUES('2009-11-01 13:54:27', NULL, '2009-11-01 13:54:27', NULL, NULL, 'published')[0m
+  [4;35;1mPost Create (0.2ms)[0m   [0mINSERT INTO "posts" ("created_at", "title", "updated_at", "text", "user_id", "status") VALUES('2009-11-01 13:54:27', NULL, '2009-11-01 13:54:27', NULL, NULL, 'published_privately')[0m
+  [4;36;1mPost Create (0.2ms)[0m   [0;1mINSERT INTO "posts" ("created_at", "title", "updated_at", "text", "user_id", "status") VALUES('2009-11-01 13:54:27', NULL, '2009-11-01 13:54:27', NULL, NULL, 'published')[0m
+  [4;35;1mPost Create (0.2ms)[0m   [0mINSERT INTO "posts" ("created_at", "title", "updated_at", "text", "user_id", "status") VALUES('2009-11-01 13:54:27', NULL, '2009-11-01 13:54:27', NULL, NULL, 'published')[0m
+  [4;36;1mPost Update (0.1ms)[0m   [0;1mUPDATE "posts" SET "updated_at" = '2009-11-01 13:54:27', "status" = 'published_privately' WHERE "id" = 1[0m
+  [4;35;1mPost Create (0.2ms)[0m   [0mINSERT INTO "posts" ("created_at", "title", "updated_at", "text", "user_id", "status") VALUES('2009-11-01 13:54:27', NULL, '2009-11-01 13:54:27', NULL, NULL, 'published')[0m
+  [4;36;1mPost Update (0.1ms)[0m   [0;1mUPDATE "posts" SET "updated_at" = '2009-11-01 13:54:27', "status" = 'unpublished' WHERE "id" = 1[0m
+  [4;35;1mPost Create (0.2ms)[0m   [0mINSERT INTO "posts" ("created_at", "title", "updated_at", "text", "user_id", "status") VALUES('2009-11-01 13:54:27', NULL, '2009-11-01 13:54:27', NULL, NULL, 'published_privately')[0m
+  [4;36;1mPost Create (0.2ms)[0m   [0;1mINSERT INTO "posts" ("created_at", "title", "updated_at", "text", "user_id", "status") VALUES('2009-11-01 13:54:27', NULL, '2009-11-01 13:54:27', NULL, NULL, 'published_privately')[0m
+  [4;35;1mPost Update (0.1ms)[0m   [0mUPDATE "posts" SET "updated_at" = '2009-11-01 13:54:27', "status" = 'published' WHERE "id" = 1[0m
+  [4;36;1mPost Create (0.4ms)[0m   [0;1mINSERT INTO "posts" ("created_at", "title", "updated_at", "text", "user_id", "status") VALUES('2009-11-01 13:54:27', NULL, '2009-11-01 13:54:27', NULL, NULL, 'published_privately')[0m
+  [4;36;1mPost Create (0.4ms)[0m   [0;1mINSERT INTO "posts" ("created_at", "title", "updated_at", "text", "user_id", "status") VALUES('2009-11-01 13:54:35', NULL, '2009-11-01 13:54:35', NULL, NULL, 'published')[0m
+  [4;35;1mPost Create (0.2ms)[0m   [0mINSERT INTO "posts" ("created_at", "title", "updated_at", "text", "user_id", "status") VALUES('2009-11-01 13:54:35', NULL, '2009-11-01 13:54:35', NULL, NULL, 'published_privately')[0m
+  [4;36;1mPost Create (0.2ms)[0m   [0;1mINSERT INTO "posts" ("created_at", "title", "updated_at", "text", "user_id", "status") VALUES('2009-11-01 13:54:35', NULL, '2009-11-01 13:54:35', NULL, NULL, 'published')[0m
+  [4;35;1mPost Create (0.3ms)[0m   [0mINSERT INTO "posts" ("created_at", "title", "updated_at", "text", "user_id", "status") VALUES('2009-11-01 13:54:35', NULL, '2009-11-01 13:54:35', NULL, NULL, 'published')[0m
+  [4;36;1mPost Update (0.1ms)[0m   [0;1mUPDATE "posts" SET "updated_at" = '2009-11-01 13:54:35', "status" = 'published_privately' WHERE "id" = 1[0m
+  [4;35;1mPost Create (0.2ms)[0m   [0mINSERT INTO "posts" ("created_at", "title", "updated_at", "text", "user_id", "status") VALUES('2009-11-01 13:54:35', NULL, '2009-11-01 13:54:35', NULL, NULL, 'published')[0m
+  [4;36;1mPost Update (0.1ms)[0m   [0;1mUPDATE "posts" SET "updated_at" = '2009-11-01 13:54:35', "status" = 'unpublished' WHERE "id" = 1[0m
+  [4;35;1mPost Create (0.2ms)[0m   [0mINSERT INTO "posts" ("created_at", "title", "updated_at", "text", "user_id", "status") VALUES('2009-11-01 13:54:35', NULL, '2009-11-01 13:54:35', NULL, NULL, 'published_privately')[0m
+  [4;36;1mPost Create (0.2ms)[0m   [0;1mINSERT INTO "posts" ("created_at", "title", "updated_at", "text", "user_id", "status") VALUES('2009-11-01 13:54:35', NULL, '2009-11-01 13:54:35', NULL, NULL, 'published_privately')[0m
+  [4;35;1mPost Update (0.1ms)[0m   [0mUPDATE "posts" SET "updated_at" = '2009-11-01 13:54:35', "status" = 'published' WHERE "id" = 1[0m
+  [4;36;1mPost Create (0.4ms)[0m   [0;1mINSERT INTO "posts" ("created_at", "title", "updated_at", "text", "user_id", "status") VALUES('2009-11-01 13:54:35', NULL, '2009-11-01 13:54:35', NULL, NULL, 'published_privately')[0m
+  [4;36;1mPost Create (0.4ms)[0m   [0;1mINSERT INTO "posts" ("created_at", "title", "updated_at", "text", "user_id", "status") VALUES('2009-11-01 13:54:42', NULL, '2009-11-01 13:54:42', NULL, NULL, 'published_privately')[0m
+  [4;35;1mPost Update (0.1ms)[0m   [0mUPDATE "posts" SET "updated_at" = '2009-11-01 13:54:42', "status" = 'unpublished' WHERE "id" = 1[0m
+  [4;36;1mPost Create (0.4ms)[0m   [0;1mINSERT INTO "posts" ("created_at", "title", "updated_at", "text", "user_id", "status") VALUES('2009-11-01 13:54:43', NULL, '2009-11-01 13:54:43', NULL, NULL, 'published')[0m
+  [4;35;1mPost Create (0.2ms)[0m   [0mINSERT INTO "posts" ("created_at", "title", "updated_at", "text", "user_id", "status") VALUES('2009-11-01 13:54:43', NULL, '2009-11-01 13:54:43', NULL, NULL, 'published_privately')[0m
+  [4;36;1mPost Create (0.2ms)[0m   [0;1mINSERT INTO "posts" ("created_at", "title", "updated_at", "text", "user_id", "status") VALUES('2009-11-01 13:54:43', NULL, '2009-11-01 13:54:43', NULL, NULL, 'published')[0m
+  [4;35;1mPost Create (0.2ms)[0m   [0mINSERT INTO "posts" ("created_at", "title", "updated_at", "text", "user_id", "status") VALUES('2009-11-01 13:54:43', NULL, '2009-11-01 13:54:43', NULL, NULL, 'published')[0m
+  [4;36;1mPost Update (0.1ms)[0m   [0;1mUPDATE "posts" SET "updated_at" = '2009-11-01 13:54:43', "status" = 'published_privately' WHERE "id" = 1[0m
+  [4;35;1mPost Create (0.2ms)[0m   [0mINSERT INTO "posts" ("created_at", "title", "updated_at", "text", "user_id", "status") VALUES('2009-11-01 13:54:43', NULL, '2009-11-01 13:54:43', NULL, NULL, 'published')[0m
+  [4;36;1mPost Update (0.1ms)[0m   [0;1mUPDATE "posts" SET "updated_at" = '2009-11-01 13:54:43', "status" = 'unpublished' WHERE "id" = 1[0m
+  [4;35;1mPost Create (0.2ms)[0m   [0mINSERT INTO "posts" ("created_at", "title", "updated_at", "text", "user_id", "status") VALUES('2009-11-01 13:54:43', NULL, '2009-11-01 13:54:43', NULL, NULL, 'published_privately')[0m
+  [4;36;1mPost Create (0.2ms)[0m   [0;1mINSERT INTO "posts" ("created_at", "title", "updated_at", "text", "user_id", "status") VALUES('2009-11-01 13:54:43', NULL, '2009-11-01 13:54:43', NULL, NULL, 'published_privately')[0m
+  [4;35;1mPost Update (0.1ms)[0m   [0mUPDATE "posts" SET "updated_at" = '2009-11-01 13:54:43', "status" = 'published' WHERE "id" = 1[0m
+  [4;36;1mPost Create (0.4ms)[0m   [0;1mINSERT INTO "posts" ("created_at", "title", "updated_at", "text", "user_id", "status") VALUES('2009-11-01 13:54:43', NULL, '2009-11-01 13:54:43', NULL, NULL, 'published_privately')[0m
+  [4;35;1mPost Update (0.1ms)[0m   [0mUPDATE "posts" SET "updated_at" = '2009-11-01 13:54:43', "status" = 'unpublished' WHERE "id" = 1[0m
+  [4;36;1mPost Create (0.4ms)[0m   [0;1mINSERT INTO "posts" ("created_at", "title", "updated_at", "text", "user_id", "status") VALUES('2009-11-01 13:55:03', NULL, '2009-11-01 13:55:03', NULL, NULL, 'published')[0m
+  [4;35;1mPost Create (0.2ms)[0m   [0mINSERT INTO "posts" ("created_at", "title", "updated_at", "text", "user_id", "status") VALUES('2009-11-01 13:55:03', NULL, '2009-11-01 13:55:03', NULL, NULL, 'published_privately')[0m
+  [4;36;1mPost Create (0.2ms)[0m   [0;1mINSERT INTO "posts" ("created_at", "title", "updated_at", "text", "user_id", "status") VALUES('2009-11-01 13:55:03', NULL, '2009-11-01 13:55:03', NULL, NULL, 'published')[0m
+  [4;35;1mPost Create (0.2ms)[0m   [0mINSERT INTO "posts" ("created_at", "title", "updated_at", "text", "user_id", "status") VALUES('2009-11-01 13:55:03', NULL, '2009-11-01 13:55:03', NULL, NULL, 'published')[0m
+  [4;36;1mPost Update (0.1ms)[0m   [0;1mUPDATE "posts" SET "updated_at" = '2009-11-01 13:55:03', "status" = 'published_privately' WHERE "id" = 1[0m
+  [4;35;1mPost Create (0.2ms)[0m   [0mINSERT INTO "posts" ("created_at", "title", "updated_at", "text", "user_id", "status") VALUES('2009-11-01 13:55:03', NULL, '2009-11-01 13:55:03', NULL, NULL, 'published')[0m
+  [4;36;1mPost Update (0.1ms)[0m   [0;1mUPDATE "posts" SET "updated_at" = '2009-11-01 13:55:03', "status" = 'unpublished' WHERE "id" = 1[0m
+  [4;35;1mPost Create (0.2ms)[0m   [0mINSERT INTO "posts" ("created_at", "title", "updated_at", "text", "user_id", "status") VALUES('2009-11-01 13:55:03', NULL, '2009-11-01 13:55:03', NULL, NULL, 'published_privately')[0m
+  [4;36;1mPost Create (0.2ms)[0m   [0;1mINSERT INTO "posts" ("created_at", "title", "updated_at", "text", "user_id", "status") VALUES('2009-11-01 13:55:03', NULL, '2009-11-01 13:55:03', NULL, NULL, 'published_privately')[0m
+  [4;35;1mPost Update (0.1ms)[0m   [0mUPDATE "posts" SET "updated_at" = '2009-11-01 13:55:03', "status" = 'published' WHERE "id" = 1[0m
+  [4;36;1mPost Create (0.4ms)[0m   [0;1mINSERT INTO "posts" ("created_at", "title", "updated_at", "text", "user_id", "status") VALUES('2009-11-01 13:55:03', NULL, '2009-11-01 13:55:03', NULL, NULL, 'published_privately')[0m
+  [4;36;1mPost Create (0.4ms)[0m   [0;1mINSERT INTO "posts" ("created_at", "title", "updated_at", "text", "user_id", "status") VALUES('2009-11-01 13:56:40', NULL, '2009-11-01 13:56:40', NULL, NULL, 'published')[0m
+  [4;35;1mPost Create (0.2ms)[0m   [0mINSERT INTO "posts" ("created_at", "title", "updated_at", "text", "user_id", "status") VALUES('2009-11-01 13:56:40', NULL, '2009-11-01 13:56:40', NULL, NULL, 'published_privately')[0m
+  [4;36;1mPost Create (0.3ms)[0m   [0;1mINSERT INTO "posts" ("created_at", "title", "updated_at", "text", "user_id", "status") VALUES('2009-11-01 13:56:40', NULL, '2009-11-01 13:56:40', NULL, NULL, 'published')[0m
+  [4;35;1mPost Create (0.2ms)[0m   [0mINSERT INTO "posts" ("created_at", "title", "updated_at", "text", "user_id", "status") VALUES('2009-11-01 13:56:40', NULL, '2009-11-01 13:56:40', NULL, NULL, 'published')[0m
+  [4;36;1mPost Update (0.1ms)[0m   [0;1mUPDATE "posts" SET "updated_at" = '2009-11-01 13:56:40', "status" = 'published_privately' WHERE "id" = 1[0m
+  [4;35;1mPost Create (0.2ms)[0m   [0mINSERT INTO "posts" ("created_at", "title", "updated_at", "text", "user_id", "status") VALUES('2009-11-01 13:56:40', NULL, '2009-11-01 13:56:40', NULL, NULL, 'published')[0m
+  [4;36;1mPost Update (0.1ms)[0m   [0;1mUPDATE "posts" SET "updated_at" = '2009-11-01 13:56:40', "status" = 'unpublished' WHERE "id" = 1[0m
+  [4;35;1mPost Create (0.2ms)[0m   [0mINSERT INTO "posts" ("created_at", "title", "updated_at", "text", "user_id", "status") VALUES('2009-11-01 13:56:40', NULL, '2009-11-01 13:56:40', NULL, NULL, 'published_privately')[0m
+  [4;36;1mPost Create (0.2ms)[0m   [0;1mINSERT INTO "posts" ("created_at", "title", "updated_at", "text", "user_id", "status") VALUES('2009-11-01 13:56:40', NULL, '2009-11-01 13:56:40', NULL, NULL, 'published_privately')[0m
+  [4;35;1mPost Update (0.2ms)[0m   [0mUPDATE "posts" SET "updated_at" = '2009-11-01 13:56:40', "status" = 'published' WHERE "id" = 1[0m
+  [4;36;1mPost Create (0.2ms)[0m   [0;1mINSERT INTO "posts" ("created_at", "title", "updated_at", "text", "user_id", "status") VALUES('2009-11-01 13:56:40', NULL, '2009-11-01 13:56:40', NULL, NULL, 'published_privately')[0m
+  [4;36;1mPost Create (0.5ms)[0m   [0;1mINSERT INTO "posts" ("created_at", "title", "updated_at", "text", "user_id", "status") VALUES('2009-11-01 14:00:08', NULL, '2009-11-01 14:00:08', NULL, NULL, 'published')[0m
+  [4;35;1mPost Create (0.2ms)[0m   [0mINSERT INTO "posts" ("created_at", "title", "updated_at", "text", "user_id", "status") VALUES('2009-11-01 14:00:08', NULL, '2009-11-01 14:00:08', NULL, NULL, 'published_privately')[0m
+  [4;36;1mPost Create (0.2ms)[0m   [0;1mINSERT INTO "posts" ("created_at", "title", "updated_at", "text", "user_id", "status") VALUES('2009-11-01 14:00:08', NULL, '2009-11-01 14:00:08', NULL, NULL, 'published')[0m
+  [4;35;1mPost Create (0.2ms)[0m   [0mINSERT INTO "posts" ("created_at", "title", "updated_at", "text", "user_id", "status") VALUES('2009-11-01 14:00:08', NULL, '2009-11-01 14:00:08', NULL, NULL, 'published')[0m
+  [4;36;1mPost Update (0.1ms)[0m   [0;1mUPDATE "posts" SET "updated_at" = '2009-11-01 14:00:08', "status" = 'published_privately' WHERE "id" = 1[0m
+  [4;35;1mPost Create (0.2ms)[0m   [0mINSERT INTO "posts" ("created_at", "title", "updated_at", "text", "user_id", "status") VALUES('2009-11-01 14:00:08', NULL, '2009-11-01 14:00:08', NULL, NULL, 'published')[0m
+  [4;36;1mPost Update (0.1ms)[0m   [0;1mUPDATE "posts" SET "updated_at" = '2009-11-01 14:00:08', "status" = 'unpublished' WHERE "id" = 1[0m
+  [4;35;1mPost Create (0.2ms)[0m   [0mINSERT INTO "posts" ("created_at", "title", "updated_at", "text", "user_id", "status") VALUES('2009-11-01 14:00:08', NULL, '2009-11-01 14:00:08', NULL, NULL, 'published_privately')[0m
+  [4;36;1mPost Create (0.2ms)[0m   [0;1mINSERT INTO "posts" ("created_at", "title", "updated_at", "text", "user_id", "status") VALUES('2009-11-01 14:00:08', NULL, '2009-11-01 14:00:08', NULL, NULL, 'published_privately')[0m
+  [4;35;1mPost Update (0.2ms)[0m   [0mUPDATE "posts" SET "updated_at" = '2009-11-01 14:00:08', "status" = 'published' WHERE "id" = 1[0m
+  [4;36;1mPost Create (0.2ms)[0m   [0;1mINSERT INTO "posts" ("created_at", "title", "updated_at", "text", "user_id", "status") VALUES('2009-11-01 14:00:08', NULL, '2009-11-01 14:00:08', NULL, NULL, 'published_privately')[0m
+  [4;36;1mPost Create (0.4ms)[0m   [0;1mINSERT INTO "posts" ("created_at", "title", "updated_at", "text", "user_id", "status") VALUES('2009-11-01 14:00:46', NULL, '2009-11-01 14:00:46', NULL, NULL, 'published')[0m
+  [4;35;1mPost Create (0.3ms)[0m   [0mINSERT INTO "posts" ("created_at", "title", "updated_at", "text", "user_id", "status") VALUES('2009-11-01 14:00:46', NULL, '2009-11-01 14:00:46', NULL, NULL, 'published_privately')[0m
+  [4;36;1mPost Create (0.2ms)[0m   [0;1mINSERT INTO "posts" ("created_at", "title", "updated_at", "text", "user_id", "status") VALUES('2009-11-01 14:00:46', NULL, '2009-11-01 14:00:46', NULL, NULL, 'published')[0m
+  [4;35;1mPost Create (0.2ms)[0m   [0mINSERT INTO "posts" ("created_at", "title", "updated_at", "text", "user_id", "status") VALUES('2009-11-01 14:00:46', NULL, '2009-11-01 14:00:46', NULL, NULL, 'published')[0m
+  [4;36;1mPost Update (0.1ms)[0m   [0;1mUPDATE "posts" SET "updated_at" = '2009-11-01 14:00:46', "status" = 'published_privately' WHERE "id" = 1[0m
+  [4;35;1mPost Create (0.2ms)[0m   [0mINSERT INTO "posts" ("created_at", "title", "updated_at", "text", "user_id", "status") VALUES('2009-11-01 14:00:46', NULL, '2009-11-01 14:00:46', NULL, NULL, 'published')[0m
+  [4;36;1mPost Update (0.1ms)[0m   [0;1mUPDATE "posts" SET "updated_at" = '2009-11-01 14:00:46', "status" = 'unpublished' WHERE "id" = 1[0m
+  [4;35;1mPost Create (0.2ms)[0m   [0mINSERT INTO "posts" ("created_at", "title", "updated_at", "text", "user_id", "status") VALUES('2009-11-01 14:00:46', NULL, '2009-11-01 14:00:46', NULL, NULL, 'published_privately')[0m
+  [4;36;1mPost Create (0.2ms)[0m   [0;1mINSERT INTO "posts" ("created_at", "title", "updated_at", "text", "user_id", "status") VALUES('2009-11-01 14:00:46', NULL, '2009-11-01 14:00:46', NULL, NULL, 'published_privately')[0m
+  [4;35;1mPost Update (0.2ms)[0m   [0mUPDATE "posts" SET "updated_at" = '2009-11-01 14:00:46', "status" = 'published' WHERE "id" = 1[0m
+  [4;36;1mPost Create (0.3ms)[0m   [0;1mINSERT INTO "posts" ("created_at", "title", "updated_at", "text", "user_id", "status") VALUES('2009-11-01 14:00:46', NULL, '2009-11-01 14:00:46', NULL, NULL, 'published_privately')[0m
+  [4;36;1mSQL (0.3ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.3ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mPost Create (0.7ms)[0m   [0;1mINSERT INTO "posts" ("created_at", "title", "updated_at", "text", "user_id", "status") VALUES('2009-11-01 14:07:10', NULL, '2009-11-01 14:07:10', NULL, NULL, 'published')[0m
+  [4;35;1mPost Create (0.4ms)[0m   [0mINSERT INTO "posts" ("created_at", "title", "updated_at", "text", "user_id", "status") VALUES('2009-11-01 14:07:10', NULL, '2009-11-01 14:07:10', NULL, NULL, 'published_privately')[0m
+  [4;36;1mPost Create (0.3ms)[0m   [0;1mINSERT INTO "posts" ("created_at", "title", "updated_at", "text", "user_id", "status") VALUES('2009-11-01 14:07:10', NULL, '2009-11-01 14:07:10', NULL, NULL, 'published')[0m
+  [4;35;1mPost Create (0.4ms)[0m   [0mINSERT INTO "posts" ("created_at", "title", "updated_at", "text", "user_id", "status") VALUES('2009-11-01 14:07:10', NULL, '2009-11-01 14:07:10', NULL, NULL, 'published')[0m
+  [4;36;1mPost Update (0.1ms)[0m   [0;1mUPDATE "posts" SET "updated_at" = '2009-11-01 14:07:10', "status" = 'published_privately' WHERE "id" = 1[0m
+  [4;35;1mPost Create (0.4ms)[0m   [0mINSERT INTO "posts" ("created_at", "title", "updated_at", "text", "user_id", "status") VALUES('2009-11-01 14:07:10', NULL, '2009-11-01 14:07:10', NULL, NULL, 'published')[0m
+  [4;36;1mPost Update (0.2ms)[0m   [0;1mUPDATE "posts" SET "updated_at" = '2009-11-01 14:07:10', "status" = 'unpublished' WHERE "id" = 1[0m
+  [4;35;1mPost Create (0.4ms)[0m   [0mINSERT INTO "posts" ("created_at", "title", "updated_at", "text", "user_id", "status") VALUES('2009-11-01 14:07:10', NULL, '2009-11-01 14:07:10', NULL, NULL, 'published_privately')[0m
+  [4;36;1mPost Create (2.5ms)[0m   [0;1mINSERT INTO "posts" ("created_at", "title", "updated_at", "text", "user_id", "status") VALUES('2009-11-01 14:07:10', NULL, '2009-11-01 14:07:10', NULL, NULL, 'published_privately')[0m
+  [4;35;1mPost Update (0.2ms)[0m   [0mUPDATE "posts" SET "updated_at" = '2009-11-01 14:07:10', "status" = 'published' WHERE "id" = 1[0m
+  [4;36;1mPost Create (0.3ms)[0m   [0;1mINSERT INTO "posts" ("created_at", "title", "updated_at", "text", "user_id", "status") VALUES('2009-11-01 14:07:10', NULL, '2009-11-01 14:07:10', NULL, NULL, 'published_privately')[0m
+  [4;36;1mPost Create (0.4ms)[0m   [0;1mINSERT INTO "posts" ("created_at", "title", "updated_at", "text", "user_id", "status") VALUES('2009-11-01 14:08:12', NULL, '2009-11-01 14:08:12', NULL, NULL, 'published')[0m
+  [4;35;1mPost Create (0.3ms)[0m   [0mINSERT INTO "posts" ("created_at", "title", "updated_at", "text", "user_id", "status") VALUES('2009-11-01 14:08:12', NULL, '2009-11-01 14:08:12', NULL, NULL, 'published_privately')[0m
+  [4;36;1mPost Create (0.2ms)[0m   [0;1mINSERT INTO "posts" ("created_at", "title", "updated_at", "text", "user_id", "status") VALUES('2009-11-01 14:08:12', NULL, '2009-11-01 14:08:12', NULL, NULL, 'published')[0m
+  [4;35;1mPost Create (0.3ms)[0m   [0mINSERT INTO "posts" ("created_at", "title", "updated_at", "text", "user_id", "status") VALUES('2009-11-01 14:08:12', NULL, '2009-11-01 14:08:12', NULL, NULL, 'published')[0m
+  [4;36;1mPost Update (0.1ms)[0m   [0;1mUPDATE "posts" SET "updated_at" = '2009-11-01 14:08:12', "status" = 'published_privately' WHERE "id" = 1[0m
+  [4;35;1mPost Create (0.2ms)[0m   [0mINSERT INTO "posts" ("created_at", "title", "updated_at", "text", "user_id", "status") VALUES('2009-11-01 14:08:12', NULL, '2009-11-01 14:08:12', NULL, NULL, 'published')[0m
+  [4;36;1mPost Update (0.1ms)[0m   [0;1mUPDATE "posts" SET "updated_at" = '2009-11-01 14:08:12', "status" = 'unpublished' WHERE "id" = 1[0m
+  [4;35;1mPost Create (0.2ms)[0m   [0mINSERT INTO "posts" ("created_at", "title", "updated_at", "text", "user_id", "status") VALUES('2009-11-01 14:08:12', NULL, '2009-11-01 14:08:12', NULL, NULL, 'published_privately')[0m
+  [4;36;1mPost Create (0.2ms)[0m   [0;1mINSERT INTO "posts" ("created_at", "title", "updated_at", "text", "user_id", "status") VALUES('2009-11-01 14:08:12', NULL, '2009-11-01 14:08:12', NULL, NULL, 'published_privately')[0m
+  [4;35;1mPost Update (0.2ms)[0m   [0mUPDATE "posts" SET "updated_at" = '2009-11-01 14:08:12', "status" = 'published' WHERE "id" = 1[0m
+  [4;36;1mPost Create (0.2ms)[0m   [0;1mINSERT INTO "posts" ("created_at", "title", "updated_at", "text", "user_id", "status") VALUES('2009-11-01 14:08:12', NULL, '2009-11-01 14:08:12', NULL, NULL, 'published_privately')[0m
+  [4;36;1mPost Create (104.7ms)[0m   [0;1mINSERT INTO "posts" ("created_at", "title", "updated_at", "text", "user_id", "status") VALUES('2009-11-01 14:08:12', NULL, '2009-11-01 14:08:12', NULL, NULL, 'published')[0m
+  [4;35;1mPost Create (0.5ms)[0m   [0mINSERT INTO "posts" ("created_at", "title", "updated_at", "text", "user_id", "status") VALUES('2009-11-01 14:08:12', NULL, '2009-11-01 14:08:12', NULL, NULL, 'published_privately')[0m
+  [4;36;1mPost Create (0.4ms)[0m   [0;1mINSERT INTO "posts" ("created_at", "title", "updated_at", "text", "user_id", "status") VALUES('2009-11-01 14:08:12', NULL, '2009-11-01 14:08:12', NULL, NULL, 'published')[0m
+  [4;35;1mPost Create (0.7ms)[0m   [0mINSERT INTO "posts" ("created_at", "title", "updated_at", "text", "user_id", "status") VALUES('2009-11-01 14:08:12', NULL, '2009-11-01 14:08:12', NULL, NULL, 'published')[0m
+  [4;36;1mPost Update (0.1ms)[0m   [0;1mUPDATE "posts" SET "updated_at" = '2009-11-01 14:08:12', "status" = 'published_privately' WHERE "id" = 1[0m
+  [4;35;1mPost Create (0.3ms)[0m   [0mINSERT INTO "posts" ("created_at", "title", "updated_at", "text", "user_id", "status") VALUES('2009-11-01 14:08:12', NULL, '2009-11-01 14:08:12', NULL, NULL, 'published')[0m
+  [4;36;1mPost Update (0.2ms)[0m   [0;1mUPDATE "posts" SET "updated_at" = '2009-11-01 14:08:12', "status" = 'unpublished' WHERE "id" = 1[0m
+  [4;35;1mPost Create (0.3ms)[0m   [0mINSERT INTO "posts" ("created_at", "title", "updated_at", "text", "user_id", "status") VALUES('2009-11-01 14:08:12', NULL, '2009-11-01 14:08:12', NULL, NULL, 'published_privately')[0m
+  [4;36;1mPost Create (0.3ms)[0m   [0;1mINSERT INTO "posts" ("created_at", "title", "updated_at", "text", "user_id", "status") VALUES('2009-11-01 14:08:12', NULL, '2009-11-01 14:08:12', NULL, NULL, 'published_privately')[0m
+  [4;35;1mPost Update (0.2ms)[0m   [0mUPDATE "posts" SET "updated_at" = '2009-11-01 14:08:12', "status" = 'published' WHERE "id" = 1[0m
+  [4;36;1mPost Create (0.3ms)[0m   [0;1mINSERT INTO "posts" ("created_at", "title", "updated_at", "text", "user_id", "status") VALUES('2009-11-01 14:08:12', NULL, '2009-11-01 14:08:12', NULL, NULL, 'published_privately')[0m
+  [4;36;1mPost Create (0.4ms)[0m   [0;1mINSERT INTO "posts" ("created_at", "title", "updated_at", "text", "user_id", "status") VALUES('2009-11-01 14:08:27', NULL, '2009-11-01 14:08:27', NULL, NULL, 'published')[0m
+  [4;36;1mPost Create (0.4ms)[0m   [0;1mINSERT INTO "posts" ("created_at", "title", "updated_at", "text", "user_id", "status") VALUES('2009-11-01 14:08:27', NULL, '2009-11-01 14:08:27', NULL, NULL, 'published')[0m
+  [4;35;1mPost Create (0.5ms)[0m   [0mINSERT INTO "posts" ("created_at", "title", "updated_at", "text", "user_id", "status") VALUES('2009-11-01 14:08:27', NULL, '2009-11-01 14:08:27', NULL, NULL, 'published_privately')[0m
+  [4;35;1mPost Create (0.2ms)[0m   [0mINSERT INTO "posts" ("created_at", "title", "updated_at", "text", "user_id", "status") VALUES('2009-11-01 14:08:27', NULL, '2009-11-01 14:08:27', NULL, NULL, 'published_privately')[0m
+  [4;36;1mPost Create (0.3ms)[0m   [0;1mINSERT INTO "posts" ("created_at", "title", "updated_at", "text", "user_id", "status") VALUES('2009-11-01 14:08:27', NULL, '2009-11-01 14:08:27', NULL, NULL, 'published')[0m
+  [4;36;1mPost Create (0.2ms)[0m   [0;1mINSERT INTO "posts" ("created_at", "title", "updated_at", "text", "user_id", "status") VALUES('2009-11-01 14:08:27', NULL, '2009-11-01 14:08:27', NULL, NULL, 'published')[0m
+  [4;35;1mPost Create (0.2ms)[0m   [0mINSERT INTO "posts" ("created_at", "title", "updated_at", "text", "user_id", "status") VALUES('2009-11-01 14:08:27', NULL, '2009-11-01 14:08:27', NULL, NULL, 'published')[0m
+  [4;36;1mPost Update (0.2ms)[0m   [0;1mUPDATE "posts" SET "updated_at" = '2009-11-01 14:08:27', "status" = 'published_privately' WHERE "id" = 1[0m
+  [4;35;1mPost Create (4.9ms)[0m   [0mINSERT INTO "posts" ("created_at", "title", "updated_at", "text", "user_id", "status") VALUES('2009-11-01 14:08:27', NULL, '2009-11-01 14:08:27', NULL, NULL, 'published')[0m
+  [4;36;1mPost Update (0.1ms)[0m   [0;1mUPDATE "posts" SET "updated_at" = '2009-11-01 14:08:27', "status" = 'published_privately' WHERE "id" = 1[0m
+  [4;35;1mPost Create (1.6ms)[0m   [0mINSERT INTO "posts" ("created_at", "title", "updated_at", "text", "user_id", "status") VALUES('2009-11-01 14:08:27', NULL, '2009-11-01 14:08:27', NULL, NULL, 'published')[0m
+  [4;36;1mPost Update (0.1ms)[0m   [0;1mUPDATE "posts" SET "updated_at" = '2009-11-01 14:08:27', "status" = 'unpublished' WHERE "id" = 1[0m
+  [4;35;1mPost Create (1.4ms)[0m   [0mINSERT INTO "posts" ("created_at", "title", "updated_at", "text", "user_id", "status") VALUES('2009-11-01 14:08:27', NULL, '2009-11-01 14:08:27', NULL, NULL, 'published')[0m
+  [4;36;1mPost Update (0.1ms)[0m   [0;1mUPDATE "posts" SET "updated_at" = '2009-11-01 14:08:27', "status" = 'unpublished' WHERE "id" = 1[0m
+  [4;35;1mPost Create (1.7ms)[0m   [0mINSERT INTO "posts" ("created_at", "title", "updated_at", "text", "user_id", "status") VALUES('2009-11-01 14:08:27', NULL, '2009-11-01 14:08:27', NULL, NULL, 'published_privately')[0m
+  [4;35;1mPost Create (0.4ms)[0m   [0mINSERT INTO "posts" ("created_at", "title", "updated_at", "text", "user_id", "status") VALUES('2009-11-01 14:08:27', NULL, '2009-11-01 14:08:27', NULL, NULL, 'published_privately')[0m
+  [4;36;1mPost Create (0.2ms)[0m   [0;1mINSERT INTO "posts" ("created_at", "title", "updated_at", "text", "user_id", "status") VALUES('2009-11-01 14:08:27', NULL, '2009-11-01 14:08:27', NULL, NULL, 'published_privately')[0m
+  [4;35;1mPost Update (0.2ms)[0m   [0mUPDATE "posts" SET "updated_at" = '2009-11-01 14:08:27', "status" = 'published' WHERE "id" = 1[0m
+  [4;36;1mPost Create (0.2ms)[0m   [0;1mINSERT INTO "posts" ("created_at", "title", "updated_at", "text", "user_id", "status") VALUES('2009-11-01 14:08:27', NULL, '2009-11-01 14:08:27', NULL, NULL, 'published_privately')[0m
+  [4;36;1mPost Create (55.6ms)[0m   [0;1mINSERT INTO "posts" ("created_at", "title", "updated_at", "text", "user_id", "status") VALUES('2009-11-01 14:08:27', NULL, '2009-11-01 14:08:27', NULL, NULL, 'published_privately')[0m
+  [4;35;1mPost Update (0.2ms)[0m   [0mUPDATE "posts" SET "updated_at" = '2009-11-01 14:08:27', "status" = 'published' WHERE "id" = 1[0m
+  [4;36;1mPost Create (15.5ms)[0m   [0;1mINSERT INTO "posts" ("created_at", "title", "updated_at", "text", "user_id", "status") VALUES('2009-11-01 14:08:28', NULL, '2009-11-01 14:08:28', NULL, NULL, 'published_privately')[0m
+  [4;36;1mPost Create (28.9ms)[0m   [0;1mINSERT INTO "posts" ("created_at", "title", "updated_at", "text", "user_id", "status") VALUES('2009-11-01 14:08:33', NULL, '2009-11-01 14:08:33', NULL, NULL, 'published')[0m
+  [4;35;1mPost Create (22.7ms)[0m   [0mINSERT INTO "posts" ("created_at", "title", "updated_at", "text", "user_id", "status") VALUES('2009-11-01 14:08:33', NULL, '2009-11-01 14:08:33', NULL, NULL, 'published_privately')[0m
+  [4;36;1mPost Create (4.9ms)[0m   [0;1mINSERT INTO "posts" ("created_at", "title", "updated_at", "text", "user_id", "status") VALUES('2009-11-01 14:08:33', NULL, '2009-11-01 14:08:33', NULL, NULL, 'published')[0m
+  [4;35;1mPost Create (11.9ms)[0m   [0mINSERT INTO "posts" ("created_at", "title", "updated_at", "text", "user_id", "status") VALUES('2009-11-01 14:08:33', NULL, '2009-11-01 14:08:33', NULL, NULL, 'published')[0m
+  [4;36;1mPost Update (0.2ms)[0m   [0;1mUPDATE "posts" SET "updated_at" = '2009-11-01 14:08:33', "status" = 'published_privately' WHERE "id" = 1[0m
+  [4;35;1mPost Create (8.7ms)[0m   [0mINSERT INTO "posts" ("created_at", "title", "updated_at", "text", "user_id", "status") VALUES('2009-11-01 14:08:33', NULL, '2009-11-01 14:08:33', NULL, NULL, 'published')[0m
+  [4;36;1mPost Update (0.1ms)[0m   [0;1mUPDATE "posts" SET "updated_at" = '2009-11-01 14:08:33', "status" = 'unpublished' WHERE "id" = 1[0m
+  [4;35;1mPost Create (19.5ms)[0m   [0mINSERT INTO "posts" ("created_at", "title", "updated_at", "text", "user_id", "status") VALUES('2009-11-01 14:08:33', NULL, '2009-11-01 14:08:33', NULL, NULL, 'published_privately')[0m
+  [4;36;1mPost Create (8.9ms)[0m   [0;1mINSERT INTO "posts" ("created_at", "title", "updated_at", "text", "user_id", "status") VALUES('2009-11-01 14:08:33', NULL, '2009-11-01 14:08:33', NULL, NULL, 'published_privately')[0m
+  [4;35;1mPost Update (0.2ms)[0m   [0mUPDATE "posts" SET "updated_at" = '2009-11-01 14:08:33', "status" = 'published' WHERE "id" = 1[0m
+  [4;36;1mPost Create (10.2ms)[0m   [0;1mINSERT INTO "posts" ("created_at", "title", "updated_at", "text", "user_id", "status") VALUES('2009-11-01 14:08:33', NULL, '2009-11-01 14:08:33', NULL, NULL, 'published_privately')[0m
+  [4;36;1mPost Create (8.9ms)[0m   [0;1mINSERT INTO "posts" ("created_at", "title", "updated_at", "text", "user_id", "status") VALUES('2009-11-01 14:08:34', NULL, '2009-11-01 14:08:34', NULL, NULL, 'published')[0m
+  [4;35;1mPost Create (43.3ms)[0m   [0mINSERT INTO "posts" ("created_at", "title", "updated_at", "text", "user_id", "status") VALUES('2009-11-01 14:08:34', NULL, '2009-11-01 14:08:34', NULL, NULL, 'published_privately')[0m
+  [4;36;1mPost Create (12.8ms)[0m   [0;1mINSERT INTO "posts" ("created_at", "title", "updated_at", "text", "user_id", "status") VALUES('2009-11-01 14:08:34', NULL, '2009-11-01 14:08:34', NULL, NULL, 'published')[0m
+  [4;35;1mPost Create (13.2ms)[0m   [0mINSERT INTO "posts" ("created_at", "title", "updated_at", "text", "user_id", "status") VALUES('2009-11-01 14:08:34', NULL, '2009-11-01 14:08:34', NULL, NULL, 'published')[0m
+  [4;36;1mPost Update (0.1ms)[0m   [0;1mUPDATE "posts" SET "updated_at" = '2009-11-01 14:08:34', "status" = 'published_privately' WHERE "id" = 1[0m
+  [4;35;1mPost Create (12.3ms)[0m   [0mINSERT INTO "posts" ("created_at", "title", "updated_at", "text", "user_id", "status") VALUES('2009-11-01 14:08:34', NULL, '2009-11-01 14:08:34', NULL, NULL, 'published')[0m
+  [4;36;1mPost Update (0.1ms)[0m   [0;1mUPDATE "posts" SET "updated_at" = '2009-11-01 14:08:34', "status" = 'unpublished' WHERE "id" = 1[0m
+  [4;35;1mPost Create (10.6ms)[0m   [0mINSERT INTO "posts" ("created_at", "title", "updated_at", "text", "user_id", "status") VALUES('2009-11-01 14:08:34', NULL, '2009-11-01 14:08:34', NULL, NULL, 'published_privately')[0m
+  [4;36;1mPost Create (8.7ms)[0m   [0;1mINSERT INTO "posts" ("created_at", "title", "updated_at", "text", "user_id", "status") VALUES('2009-11-01 14:08:34', NULL, '2009-11-01 14:08:34', NULL, NULL, 'published_privately')[0m
+  [4;35;1mPost Update (0.2ms)[0m   [0mUPDATE "posts" SET "updated_at" = '2009-11-01 14:08:34', "status" = 'published' WHERE "id" = 1[0m
+  [4;36;1mPost Create (8.2ms)[0m   [0;1mINSERT INTO "posts" ("created_at", "title", "updated_at", "text", "user_id", "status") VALUES('2009-11-01 14:08:34', NULL, '2009-11-01 14:08:34', NULL, NULL, 'published_privately')[0m
+  [4;36;1mPost Create (0.4ms)[0m   [0;1mINSERT INTO "posts" ("created_at", "title", "updated_at", "text", "user_id", "status") VALUES('2009-11-01 14:08:54', NULL, '2009-11-01 14:08:54', NULL, NULL, 'published')[0m
+  [4;36;1mPost Create (0.3ms)[0m   [0;1mINSERT INTO "posts" ("created_at", "title", "updated_at", "text", "user_id", "status") VALUES('2009-11-01 14:08:54', NULL, '2009-11-01 14:08:54', NULL, NULL, 'published')[0m
+  [4;35;1mPost Create (1.3ms)[0m   [0mINSERT INTO "posts" ("created_at", "title", "updated_at", "text", "user_id", "status") VALUES('2009-11-01 14:08:54', NULL, '2009-11-01 14:08:54', NULL, NULL, 'published_privately')[0m
+  [4;35;1mPost Create (0.6ms)[0m   [0mINSERT INTO "posts" ("created_at", "title", "updated_at", "text", "user_id", "status") VALUES('2009-11-01 14:08:54', NULL, '2009-11-01 14:08:54', NULL, NULL, 'published_privately')[0m
+  [4;36;1mPost Create (0.2ms)[0m   [0;1mINSERT INTO "posts" ("created_at", "title", "updated_at", "text", "user_id", "status") VALUES('2009-11-01 14:08:54', NULL, '2009-11-01 14:08:54', NULL, NULL, 'published')[0m
+  [4;36;1mPost Create (0.6ms)[0m   [0;1mINSERT INTO "posts" ("created_at", "title", "updated_at", "text", "user_id", "status") VALUES('2009-11-01 14:08:54', NULL, '2009-11-01 14:08:54', NULL, NULL, 'published')[0m
+  [4;35;1mPost Create (0.2ms)[0m   [0mINSERT INTO "posts" ("created_at", "title", "updated_at", "text", "user_id", "status") VALUES('2009-11-01 14:08:54', NULL, '2009-11-01 14:08:54', NULL, NULL, 'published')[0m
+  [4;36;1mPost Update (0.1ms)[0m   [0;1mUPDATE "posts" SET "updated_at" = '2009-11-01 14:08:54', "status" = 'published_privately' WHERE "id" = 1[0m
+  [4;35;1mPost Create (3.4ms)[0m   [0mINSERT INTO "posts" ("created_at", "title", "updated_at", "text", "user_id", "status") VALUES('2009-11-01 14:08:54', NULL, '2009-11-01 14:08:54', NULL, NULL, 'published')[0m
+  [4;36;1mPost Update (0.1ms)[0m   [0;1mUPDATE "posts" SET "updated_at" = '2009-11-01 14:08:54', "status" = 'published_privately' WHERE "id" = 1[0m
+  [4;35;1mPost Create (3.3ms)[0m   [0mINSERT INTO "posts" ("created_at", "title", "updated_at", "text", "user_id", "status") VALUES('2009-11-01 14:08:54', NULL, '2009-11-01 14:08:54', NULL, NULL, 'published')[0m
+  [4;36;1mPost Update (0.1ms)[0m   [0;1mUPDATE "posts" SET "updated_at" = '2009-11-01 14:08:54', "status" = 'unpublished' WHERE "id" = 1[0m
+  [4;35;1mPost Create (3.3ms)[0m   [0mINSERT INTO "posts" ("created_at", "title", "updated_at", "text", "user_id", "status") VALUES('2009-11-01 14:08:54', NULL, '2009-11-01 14:08:54', NULL, NULL, 'published')[0m
+  [4;36;1mPost Update (0.1ms)[0m   [0;1mUPDATE "posts" SET "updated_at" = '2009-11-01 14:08:54', "status" = 'unpublished' WHERE "id" = 1[0m
+  [4;35;1mPost Create (3.3ms)[0m   [0mINSERT INTO "posts" ("created_at", "title", "updated_at", "text", "user_id", "status") VALUES('2009-11-01 14:08:54', NULL, '2009-11-01 14:08:54', NULL, NULL, 'published_privately')[0m
+  [4;35;1mPost Create (1.4ms)[0m   [0mINSERT INTO "posts" ("created_at", "title", "updated_at", "text", "user_id", "status") VALUES('2009-11-01 14:08:54', NULL, '2009-11-01 14:08:54', NULL, NULL, 'published_privately')[0m
+  [4;36;1mPost Create (0.7ms)[0m   [0;1mINSERT INTO "posts" ("created_at", "title", "updated_at", "text", "user_id", "status") VALUES('2009-11-01 14:08:54', NULL, '2009-11-01 14:08:54', NULL, NULL, 'published_privately')[0m
+  [4;35;1mPost Update (0.2ms)[0m   [0mUPDATE "posts" SET "updated_at" = '2009-11-01 14:08:54', "status" = 'published' WHERE "id" = 1[0m
+  [4;36;1mPost Create (0.3ms)[0m   [0;1mINSERT INTO "posts" ("created_at", "title", "updated_at", "text", "user_id", "status") VALUES('2009-11-01 14:08:54', NULL, '2009-11-01 14:08:54', NULL, NULL, 'published_privately')[0m
+  [4;36;1mPost Create (55.1ms)[0m   [0;1mINSERT INTO "posts" ("created_at", "title", "updated_at", "text", "user_id", "status") VALUES('2009-11-01 14:08:54', NULL, '2009-11-01 14:08:54', NULL, NULL, 'published_privately')[0m
+  [4;35;1mPost Update (0.7ms)[0m   [0mUPDATE "posts" SET "updated_at" = '2009-11-01 14:08:54', "status" = 'published' WHERE "id" = 1[0m
+  [4;36;1mPost Create (0.3ms)[0m   [0;1mINSERT INTO "posts" ("created_at", "title", "updated_at", "text", "user_id", "status") VALUES('2009-11-01 14:08:54', NULL, '2009-11-01 14:08:54', NULL, NULL, 'published_privately')[0m
+  [4;36;1mPost Create (0.4ms)[0m   [0;1mINSERT INTO "posts" ("created_at", "title", "updated_at", "text", "user_id", "status") VALUES('2009-11-01 14:09:21', NULL, '2009-11-01 14:09:21', NULL, NULL, 'published')[0m
+  [4;35;1mPost Create (0.3ms)[0m   [0mINSERT INTO "posts" ("created_at", "title", "updated_at", "text", "user_id", "status") VALUES('2009-11-01 14:09:21', NULL, '2009-11-01 14:09:21', NULL, NULL, 'published_privately')[0m
+  [4;36;1mPost Create (1.2ms)[0m   [0;1mINSERT INTO "posts" ("created_at", "title", "updated_at", "text", "user_id", "status") VALUES('2009-11-01 14:09:21', NULL, '2009-11-01 14:09:21', NULL, NULL, 'published')[0m
+  [4;36;1mPost Create (1.7ms)[0m   [0;1mINSERT INTO "posts" ("created_at", "title", "updated_at", "text", "user_id", "status") VALUES('2009-11-01 14:09:21', NULL, '2009-11-01 14:09:21', NULL, NULL, 'published')[0m
+  [4;35;1mPost Create (1.4ms)[0m   [0mINSERT INTO "posts" ("created_at", "title", "updated_at", "text", "user_id", "status") VALUES('2009-11-01 14:09:21', NULL, '2009-11-01 14:09:21', NULL, NULL, 'published_privately')[0m
+  [4;35;1mPost Create (1.4ms)[0m   [0mINSERT INTO "posts" ("created_at", "title", "updated_at", "text", "user_id", "status") VALUES('2009-11-01 14:09:21', NULL, '2009-11-01 14:09:21', NULL, NULL, 'published')[0m
+  [4;36;1mPost Update (0.1ms)[0m   [0;1mUPDATE "posts" SET "updated_at" = '2009-11-01 14:09:21', "status" = 'published_privately' WHERE "id" = 1[0m
+  [4;36;1mPost Create (3.4ms)[0m   [0;1mINSERT INTO "posts" ("created_at", "title", "updated_at", "text", "user_id", "status") VALUES('2009-11-01 14:09:21', NULL, '2009-11-01 14:09:21', NULL, NULL, 'published')[0m
+  [4;35;1mPost Create (1.9ms)[0m   [0mINSERT INTO "posts" ("created_at", "title", "updated_at", "text", "user_id", "status") VALUES('2009-11-01 14:09:21', NULL, '2009-11-01 14:09:21', NULL, NULL, 'published')[0m
+  [4;36;1mPost Update (0.1ms)[0m   [0;1mUPDATE "posts" SET "updated_at" = '2009-11-01 14:09:21', "status" = 'unpublished' WHERE "id" = 1[0m
+  [4;35;1mPost Create (1.7ms)[0m   [0mINSERT INTO "posts" ("created_at", "title", "updated_at", "text", "user_id", "status") VALUES('2009-11-01 14:09:21', NULL, '2009-11-01 14:09:21', NULL, NULL, 'published')[0m
+  [4;36;1mPost Update (0.1ms)[0m   [0;1mUPDATE "posts" SET "updated_at" = '2009-11-01 14:09:21', "status" = 'published_privately' WHERE "id" = 1[0m
+  [4;35;1mPost Create (1.7ms)[0m   [0mINSERT INTO "posts" ("created_at", "title", "updated_at", "text", "user_id", "status") VALUES('2009-11-01 14:09:21', NULL, '2009-11-01 14:09:21', NULL, NULL, 'published_privately')[0m
+  [4;35;1mPost Create (0.2ms)[0m   [0mINSERT INTO "posts" ("created_at", "title", "updated_at", "text", "user_id", "status") VALUES('2009-11-01 14:09:21', NULL, '2009-11-01 14:09:21', NULL, NULL, 'published')[0m
+  [4;36;1mPost Update (0.1ms)[0m   [0;1mUPDATE "posts" SET "updated_at" = '2009-11-01 14:09:21', "status" = 'unpublished' WHERE "id" = 1[0m
+  [4;36;1mPost Create (1.6ms)[0m   [0;1mINSERT INTO "posts" ("created_at", "title", "updated_at", "text", "user_id", "status") VALUES('2009-11-01 14:09:21', NULL, '2009-11-01 14:09:21', NULL, NULL, 'published_privately')[0m
+  [4;35;1mPost Update (0.2ms)[0m   [0mUPDATE "posts" SET "updated_at" = '2009-11-01 14:09:21', "status" = 'published' WHERE "id" = 1[0m
+  [4;36;1mPost Create (0.2ms)[0m   [0;1mINSERT INTO "posts" ("created_at", "title", "updated_at", "text", "user_id", "status") VALUES('2009-11-01 14:09:21', NULL, '2009-11-01 14:09:21', NULL, NULL, 'published_privately')[0m
+  [4;35;1mPost Create (54.9ms)[0m   [0mINSERT INTO "posts" ("created_at", "title", "updated_at", "text", "user_id", "status") VALUES('2009-11-01 14:09:21', NULL, '2009-11-01 14:09:21', NULL, NULL, 'published_privately')[0m
+  [4;36;1mPost Create (0.2ms)[0m   [0;1mINSERT INTO "posts" ("created_at", "title", "updated_at", "text", "user_id", "status") VALUES('2009-11-01 14:09:21', NULL, '2009-11-01 14:09:21', NULL, NULL, 'published_privately')[0m
+  [4;35;1mPost Update (0.2ms)[0m   [0mUPDATE "posts" SET "updated_at" = '2009-11-01 14:09:21', "status" = 'published' WHERE "id" = 1[0m
+  [4;36;1mPost Create (0.4ms)[0m   [0;1mINSERT INTO "posts" ("created_at", "title", "updated_at", "text", "user_id", "status") VALUES('2009-11-01 14:09:21', NULL, '2009-11-01 14:09:21', NULL, NULL, 'published_privately')[0m
+  [4;36;1mPost Create (0.4ms)[0m   [0;1mINSERT INTO "posts" ("created_at", "title", "updated_at", "text", "user_id", "status") VALUES('2009-11-01 14:09:28', NULL, '2009-11-01 14:09:28', NULL, NULL, 'published')[0m
+  [4;35;1mPost Create (0.2ms)[0m   [0mINSERT INTO "posts" ("created_at", "title", "updated_at", "text", "user_id", "status") VALUES('2009-11-01 14:09:28', NULL, '2009-11-01 14:09:28', NULL, NULL, 'published_privately')[0m
+  [4;36;1mPost Create (0.2ms)[0m   [0;1mINSERT INTO "posts" ("created_at", "title", "updated_at", "text", "user_id", "status") VALUES('2009-11-01 14:09:28', NULL, '2009-11-01 14:09:28', NULL, NULL, 'published')[0m
+  [4;35;1mPost Create (0.2ms)[0m   [0mINSERT INTO "posts" ("created_at", "title", "updated_at", "text", "user_id", "status") VALUES('2009-11-01 14:09:28', NULL, '2009-11-01 14:09:28', NULL, NULL, 'published')[0m
+  [4;36;1mPost Update (0.1ms)[0m   [0;1mUPDATE "posts" SET "updated_at" = '2009-11-01 14:09:28', "status" = 'published_privately' WHERE "id" = 1[0m
+  [4;35;1mPost Create (0.2ms)[0m   [0mINSERT INTO "posts" ("created_at", "title", "updated_at", "text", "user_id", "status") VALUES('2009-11-01 14:09:28', NULL, '2009-11-01 14:09:28', NULL, NULL, 'published')[0m
+  [4;36;1mPost Update (0.1ms)[0m   [0;1mUPDATE "posts" SET "updated_at" = '2009-11-01 14:09:28', "status" = 'unpublished' WHERE "id" = 1[0m
+  [4;35;1mPost Create (0.2ms)[0m   [0mINSERT INTO "posts" ("created_at", "title", "updated_at", "text", "user_id", "status") VALUES('2009-11-01 14:09:28', NULL, '2009-11-01 14:09:28', NULL, NULL, 'published_privately')[0m
+  [4;36;1mPost Create (18.6ms)[0m   [0;1mINSERT INTO "posts" ("created_at", "title", "updated_at", "text", "user_id", "status") VALUES('2009-11-01 14:09:28', NULL, '2009-11-01 14:09:28', NULL, NULL, 'published')[0m
+  [4;36;1mPost Create (3.3ms)[0m   [0;1mINSERT INTO "posts" ("created_at", "title", "updated_at", "text", "user_id", "status") VALUES('2009-11-01 14:09:28', NULL, '2009-11-01 14:09:28', NULL, NULL, 'published_privately')[0m
+  [4;35;1mPost Update (0.2ms)[0m   [0mUPDATE "posts" SET "updated_at" = '2009-11-01 14:09:28', "status" = 'published' WHERE "id" = 1[0m
+  [4;36;1mPost Create (0.2ms)[0m   [0;1mINSERT INTO "posts" ("created_at", "title", "updated_at", "text", "user_id", "status") VALUES('2009-11-01 14:09:28', NULL, '2009-11-01 14:09:28', NULL, NULL, 'published_privately')[0m
+  [4;35;1mPost Create (79.2ms)[0m   [0mINSERT INTO "posts" ("created_at", "title", "updated_at", "text", "user_id", "status") VALUES('2009-11-01 14:09:28', NULL, '2009-11-01 14:09:28', NULL, NULL, 'published_privately')[0m
+  [4;36;1mPost Create (0.4ms)[0m   [0;1mINSERT INTO "posts" ("created_at", "title", "updated_at", "text", "user_id", "status") VALUES('2009-11-01 14:09:28', NULL, '2009-11-01 14:09:28', NULL, NULL, 'published')[0m
+  [4;35;1mPost Create (1.0ms)[0m   [0mINSERT INTO "posts" ("created_at", "title", "updated_at", "text", "user_id", "status") VALUES('2009-11-01 14:09:28', NULL, '2009-11-01 14:09:28', NULL, NULL, 'published')[0m
+  [4;36;1mPost Update (0.1ms)[0m   [0;1mUPDATE "posts" SET "updated_at" = '2009-11-01 14:09:28', "status" = 'published_privately' WHERE "id" = 1[0m
+  [4;35;1mPost Create (0.3ms)[0m   [0mINSERT INTO "posts" ("created_at", "title", "updated_at", "text", "user_id", "status") VALUES('2009-11-01 14:09:28', NULL, '2009-11-01 14:09:28', NULL, NULL, 'published')[0m
+  [4;36;1mPost Update (2.1ms)[0m   [0;1mUPDATE "posts" SET "updated_at" = '2009-11-01 14:09:28', "status" = 'unpublished' WHERE "id" = 1[0m
+  [4;35;1mPost Create (0.3ms)[0m   [0mINSERT INTO "posts" ("created_at", "title", "updated_at", "text", "user_id", "status") VALUES('2009-11-01 14:09:28', NULL, '2009-11-01 14:09:28', NULL, NULL, 'published_privately')[0m
+  [4;36;1mPost Create (0.3ms)[0m   [0;1mINSERT INTO "posts" ("created_at", "title", "updated_at", "text", "user_id", "status") VALUES('2009-11-01 14:09:28', NULL, '2009-11-01 14:09:28', NULL, NULL, 'published_privately')[0m
+  [4;35;1mPost Update (0.2ms)[0m   [0mUPDATE "posts" SET "updated_at" = '2009-11-01 14:09:28', "status" = 'published' WHERE "id" = 1[0m
+  [4;36;1mPost Create (0.3ms)[0m   [0;1mINSERT INTO "posts" ("created_at", "title", "updated_at", "text", "user_id", "status") VALUES('2009-11-01 14:09:28', NULL, '2009-11-01 14:09:28', NULL, NULL, 'published_privately')[0m
